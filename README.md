@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/ward-van-assche-2224251b7/" target="_blank">
+  <a href="https://www.linkedin.com/in/ward-van-assche/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a developer from The Netherlands<br><br>- I’m studying full stack development and design<br>- I'm currently learning ReactJS, ExpressJS and MongoDB</p>
+<p align="left">I'm a developer from The Netherlands<br><br>• I’m studying full stack development and design<br>• I'm currently learning ReactJS, ExpressJS and MongoDB</p>
 
 ###
 
