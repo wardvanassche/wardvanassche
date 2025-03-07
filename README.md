@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a developer from The Netherlands<br><br>• I’m studying full-stack development and design<br>• I'm currently learning ReactJS, ExpressJS and MongoDB</p>
+<p align="left">I'm a developer from The Netherlands<br><br>• I’m studying full-stack development and design</p>
 
 ###
 
